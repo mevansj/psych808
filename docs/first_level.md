@@ -25,7 +25,7 @@ First level analysis processes the functional images for each subject.
 The Registation of the high resolution to standard image should look something
 like this.
 
-![Image of Brain](https://github.com/mevansj/psych808/blob/master/docs/highres2standard.png)
+![Image of Brain](highres2standard.png)
 
 If there are substantial red lines outside of the brain, then there may
 be problems, and you should flag the subject for review.
