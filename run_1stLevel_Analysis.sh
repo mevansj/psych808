@@ -2,7 +2,7 @@
 
 # Set the directory that contains the data folders
 
-dataDir=$HMOE/Projects/ds102
+dataDir=$HOME/Projects/ds102
 scriptDir=$HOME/Projects/scripts
 
 # Change to the data directory
