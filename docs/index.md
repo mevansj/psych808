@@ -5,4 +5,4 @@ GitHub.
 
 [Script documentation](https://michigan-nii.github.io/psych808/scripts.html)
 
-[Instructions for running first-level analysis](https://michigan-nii.github.io/psych808/first_level)
+[Instructions for running first-level analysis](https://mevansj.github.io/psych808/first_level)
